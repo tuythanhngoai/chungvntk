@@ -1,5 +1,5 @@
 <?php
-
+echo 'Nguyen Tuy';
 
 // change the following paths if necessary
 $yii = dirname(__FILE__).'/framework/yii.php';
